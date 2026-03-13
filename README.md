@@ -36,8 +36,10 @@ If you see the subcommands plotted, then we are ready!
 
 # Running PanKmer
 
-My dataset consisted of multiple samples of the same specie. I wanted to look at relationship between my individuals. PanKmer could be use to compare behavior of different species, even look at hibridization signals. However my purpose was purely exploratory in my dataset. 
+My dataset consisted of multiple samples of the same specie. I wanted to look at relationship between my individuals. PanKmer could be use to compare behavior of different species, even look at hibridization signals, however I didn't.
 This is a smooth pipeline, I didn't face any major error while running it.
-If your first thing to do is to explore your pangenomes, then this [master script](https://github.com/Luna-san-2911/Running_PanKmer/blob/main/pankmer_master.sbatch) is perfect for you.
+If what you want to do is to explore your genomes, then this [master script](https://github.com/Luna-san-2911/Running_PanKmer/blob/main/pankmer_master.sbatch) is perfect for you.
 As a guide, for 56 genomes of ~580Mb, the analysis took 4 cores, ~ 70G of mem and ~ 2 days.
 Further notes can be found in the script. 
+
+Enjoy!
